@@ -1,0 +1,10 @@
+#container{
+	display: table;
+	margin: 0 auto;
+}
+
+#viewport{
+	height: 300px;
+	width: 500px;
+	border: 1px solid black;
+}
